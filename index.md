@@ -1,7 +1,7 @@
 # Drishti's first CS193 Lab
--Very new to me.
--Seems quite interesting
--Helpful professors
+- Very new to me.
+- Seems quite interesting
+- Helpful professors
 
 ## Welcome to GitHub Pages
 
